@@ -1,0 +1,25 @@
+.name-picker-container {
+    padding: 2rem;
+}
+
+.name-picker-container > * {
+    margin-top: 1rem;
+}
+
+.buttons-container {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.name-picker-button {
+    display: inline-block;
+    background-color: #008CBA;
+    border: 1px;
+    color: white;
+    padding: 1rem 2rem;
+    text-align: center;
+    font-size: 1rem;
+    min-width: 160px;
+    width: 100%;
+}
